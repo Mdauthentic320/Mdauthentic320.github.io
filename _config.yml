@@ -6,3 +6,4 @@ title: mdblog
 tagline: A log of everyday life
 description: My awesome new site
 paginate: 7
+theme: jekyll-theme-cayman
